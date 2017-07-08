@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: "Title"
+description: "试试能不能写中文"
+
+show_downloads: "true"
+
+
